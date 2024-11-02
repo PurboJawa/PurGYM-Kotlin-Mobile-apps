@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PurGYM</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sudah_memiliki_akun">Sudah memiliki Akun?</string>
+    <string name="login">Login</string>
+    <string name="welcome_admin">Welcome Admin!</string>
+    <string name="belum_memiliki_akun">Belum memiliki Akun?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu">Menu</string>
+    <string name="log_out">Log Out</string>
+    <string name="ganti_password">Ganti Password</string>
+    <string name="tambah_member">Tambah Member</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="desc_app">Aplikasi yang dirancang untuk mengelola dan memanajemen data anggota membership PurGym. Dengan fitur Unggulan yaitu otomatis Nonaktivasi daftar member yang expired date nya telah lewat, aplikasi ini memungkinkan pengelola untuk memantau serta memperbarui data keanggotaan dengan mudah.</string>
+</resources>

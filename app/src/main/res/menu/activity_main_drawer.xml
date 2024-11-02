@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group_menu"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_add_member"
+            android:icon="@drawable/ic_add"
+            android:title="@string/tambah_member" />
+    </group>
+
+
+    <group
+        android:id="@+id/group_settings"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/ganti_password" />
+        <item
+            android:id="@+id/btn_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/log_out" />
+    </group>
+
+    <group
+        android:id="@+id/group_apps"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_apps"
+            android:icon="@drawable/ic_info"
+            android:title="@string/tentang_aplikasi" />
+    </group>
+</menu>
